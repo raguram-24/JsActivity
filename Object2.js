@@ -1,0 +1,2 @@
+let course = {courseName:"BIT", courseFee:150000, startDate:"12.06.2018", center:"OUR OFFICE" }
+document.getElementById('question-6').innerHTML = "Course Name:"+course.courseName+"<br>"+"Fee:"+course.courseFee+"<br>"+"Start date:"+course.startDate+"<br>"+"center:"+course.center ;
